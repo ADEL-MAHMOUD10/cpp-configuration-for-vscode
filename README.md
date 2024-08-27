@@ -8,6 +8,7 @@
 7. Select New and add C:\mingw64\bin
 8. ![alt text](https://i.ibb.co/m4nvkRd/image-1.png)
 9. create .vscode folder in your project folder
-10. move the three file ```c_cpp_properties.json``` , ```launch.json``` and ```tasks.json```
-11. if the three files exist in .vscode folder reblace them
-12. c++ will be run and debug normal in your vscode
+11. download the three file ```c_cpp_properties.json``` , ```launch.json``` and ```tasks.json``` from this repositorie
+12. or download form [here](https://www.mediafire.com/file/cs4tw82kn4a5554/configuration.7z/file) and Extract this file in .vscode folder
+13. if the three files exist in .vscode folder reblace them
+14. c++ will be run and debug normal in your vscode
