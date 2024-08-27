@@ -5,7 +5,9 @@
 4. Search for Edit environment variables
 5. In your User variables, select the Path variable and then select Edit.
 6. Select New and add C:\mingw64\bin
-7. ceate .vscode folder in your project folder
-8. move the three file ```c_cpp_properties.json``` , ```launch.json``` and ```tasks.json```
-9. if the three files exist in .vscode folder reblace them
-10. c++ will be run and debug normal in your vscode
+7. ![alt text](https://www.mediafire.com/convkey/7169/rzgfvg3ua6c8o185g.jpg)
+8. ![alt text](https://www.mediafire.com/convkey/4d16/rxlivi6an7sqbt95g.jpg)
+9. create .vscode folder in your project folder
+10. move the three file ```c_cpp_properties.json``` , ```launch.json``` and ```tasks.json```
+11. if the three files exist in .vscode folder reblace them
+12. c++ will be run and debug normal in your vscode
