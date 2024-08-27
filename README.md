@@ -7,6 +7,7 @@
 6. In your User variables, select the Path variable and then select Edit.
 7. Select New and add C:\mingw64\bin
 ![alt text](https://i.ibb.co/m4nvkRd/image-1.png)
+8. click OK then OK
 9. create .vscode folder in your project folder
 11. download the three file ```c_cpp_properties.json``` , ```launch.json``` and ```tasks.json``` from this repositorie and move them in .vscode folder
 12. or download from [here](https://www.mediafire.com/file/cs4tw82kn4a5554/configuration.7z/file)
