@@ -4,8 +4,8 @@
 ![alt text](https://i.ibb.co/bJrr6kT/image.png)
 4. In the Windows search bar, type Settings to open your Windows Settings.
 5. Search for Edit environment variables
-6. In your User variables, select the Path variable and then select Edit.
-7. Select New and add C:\mingw64\bin
+6. In your User variables, select the ```Path``` variable and then select Edit.
+7. Select New and add ```C:\mingw64\bin```
 ![alt text](https://i.ibb.co/m4nvkRd/image-1.png)
 8. click OK then OK
 9. create .vscode folder in your project folder
