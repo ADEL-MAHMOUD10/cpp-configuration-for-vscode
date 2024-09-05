@@ -1,16 +1,33 @@
-# configuration
-1. download Mingw file ( Get it from [here](https://www.mediafire.com/file/etqb34ppi6rjt0x/mingw-64.7z/file) )
-2. Extract mingw-64. folder in "C:\"
-![alt text](https://i.postimg.cc/q7YD4HVh/image.png)
-4. In the Windows search bar, type Settings to open your Windows Settings.
-5. Search for Edit environment variables
-6. In your User variables, select the ```Path``` variable and then select Edit.
-7. Select New and add ```C:\mingw64\bin```
-![alt text](https://i.postimg.cc/brRRGKMR/image-1.png)
-8. click OK then OK
-9. create .vscode folder in your project folder
-11. download the three file ```c_cpp_properties.json``` , ```launch.json``` and ```tasks.json``` from this repositorie and move them in .vscode folder
-12. or download from [here](https://www.mediafire.com/file/cs4tw82kn4a5554/configuration.7z/file)
-13. Extract this file in .vscode folder
-14. if the three files exist in .vscode folder reblace them
-15. c++ will be run and debug normal in your vscode
+# C++ Development Environment Setup with MinGW and VS Code
+
+## 1. Download MinGW
+Download the MinGW file from [this link](https://www.mediafire.com/file/etqb34ppi6rjt0x/mingw-64.7z/file).
+
+## 2. Extract MinGW
+Extract the `mingw-64` folder to your C drive (`C:\`).
+![Extraction Example](https://i.postimg.cc/q7YD4HVh/image.png)
+
+## 3. Update Environment Variables
+1. Open Windows Settings and search for "Edit environment variables."
+2. In the User variables section, select the `Path` variable and click "Edit."
+3. Click "New" and add `C:\mingw64\bin`.
+   ![Path Update Example](https://i.postimg.cc/brRRGKMR/image-1.png)
+4. Click "OK" to save the changes.
+
+## 4. Configure VS Code
+1. Create a `.vscode` folder in your project directory.
+2. Download the configuration files (`c_cpp_properties.json`, `launch.json`, and `tasks.json`) from:
+   - [this direct link](https://www.mediafire.com/file/cs4tw82kn4a5554/configuration.7z/file)
+3. or download from this repositorie by:
+    ```bash
+    git clone https://github.com/adel1046/cpp-configuration-for-vscode.git
+    ```
+
+4. Extract these files into the `.vscode` folder in your project directory.
+5. If these files already exist in the folder, replace them with the new files.
+
+## 5. Verify Installation
+1. Open Command Prompt and type `g++ --version` to check if MinGW is installed correctly.
+2. If you see information about the `g++` version, MinGW is installed correctly.
+
+
