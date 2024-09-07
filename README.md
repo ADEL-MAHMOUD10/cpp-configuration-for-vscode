@@ -27,7 +27,7 @@ Extract the `mingw-64` folder to your C drive (`C:\`).
 5. If these files already exist in the folder, replace them with the new files.
 
 ## 5. Verify Installation
-1. Open Command Prompt and type `g++ --version` to check if MinGW is installed correctly.
+1. Open Command Prompt and write this command `g++ --version` to check if MinGW is installed correctly.
 2. If you see information about the `g++` version, MinGW is installed correctly.
 
 
