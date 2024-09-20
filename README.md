@@ -20,7 +20,7 @@ Extract the `mingw-64` folder to your C drive (`C:\`).
    - [this direct link](https://www.mediafire.com/file/cs4tw82kn4a5554/configuration.7z/file)
 3. or download from this repositorie by:
     ```bash
-    git clone https://github.com/A-D-E-L-M-A-H-M-O-U-D/cpp-configuration-for-vscode.git
+    git clone https://github.com/ADEL-MAHMOUD10/cpp-configuration-for-vscode.git
     ```
 
 4. Extract these files into the `.vscode` folder in your project directory.
